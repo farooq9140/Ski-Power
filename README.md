@@ -15,4 +15,11 @@ How I run on my local device:
 3. Make a new Directory for the Ski Power project: **mkdir SkiPower**. This is where all the data will be saved. This is a completely separate folder and there should be no other project in here. This will act as your database.
 4. Run Mongodb database: **mongod --dbpath SkiPower** ... This will run the database. Check the Ski Power API terminal to see if it connected.
 
-**If the above does not work. Then try to follow the steps to run mongodb locally on your machine in the mongodb documentation.**
+**If the above does not work. Then try to follow the steps to run mongodb locally on your machine in the mongodb documentation.** <br> <br> 
+**Contributors**<br> 
+Thamina Akther,
+Simarjit Bilkhu,
+Matthew Moreno,
+Domenico Giancola, 
+Nicholas Gidaro,
+Farouq HamedAllah
